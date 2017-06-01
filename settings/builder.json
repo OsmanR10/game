@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.mygame",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "8397ebb1-2218-48c6-ac37-13e6c3854fac",
+  "title": "Defense",
+  "webOrientation": "auto"
+}

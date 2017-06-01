@@ -1,0 +1,1160 @@
+2017-06-01T14:20:04.415Z - normal: Load ~/.CocosCreator/settings.json
+2017-06-01T14:20:04.437Z - normal: checking language setting...
+2017-06-01T14:20:04.438Z - normal: Language: en
+2017-06-01T14:20:07.627Z - success: protocol editor-framework registered
+2017-06-01T14:20:07.628Z - success: protocol app registered
+2017-06-01T14:20:07.628Z - success: protocol theme registered
+2017-06-01T14:20:07.629Z - success: protocol profile registered
+2017-06-01T14:20:07.629Z - success: protocol packages registered
+2017-06-01T14:20:07.630Z - success: protocol unpack registerred
+2017-06-01T14:20:07.630Z - success: protocol disable-commonjs registerred
+2017-06-01T14:20:09.249Z - normal: connected!
+2017-06-01T14:20:09.258Z - normal: Check project C:\Users\Osman\Desktop\School\start_project
+2017-06-01T14:20:09.276Z - normal: Initializing Cocos2d
+2017-06-01T14:20:10.549Z - normal: Initializing Asset Database
+2017-06-01T14:20:10.744Z - success: protocol uuid registerred
+2017-06-01T14:20:10.745Z - success: protocol db registerred
+2017-06-01T14:20:10.745Z - success: protocol thumbnail registerred
+2017-06-01T14:20:10.747Z - normal: Loading editor/builtin packages
+2017-06-01T14:20:10.850Z - success: anysdk loaded
+2017-06-01T14:20:11.564Z - success: assets loaded
+2017-06-01T14:20:11.573Z - success: builder loaded
+2017-06-01T14:20:11.588Z - success: hierarchy loaded
+2017-06-01T14:20:11.601Z - success: inspector loaded
+2017-06-01T14:20:11.607Z - success: keystore loaded
+2017-06-01T14:20:11.620Z - success: node-library loaded
+2017-06-01T14:20:11.628Z - success: package-asset loaded
+2017-06-01T14:20:11.641Z - success: preferences loaded
+2017-06-01T14:20:11.722Z - success: project-importer loaded
+2017-06-01T14:20:11.732Z - success: project-settings loaded
+2017-06-01T14:20:11.740Z - success: ui-kit loaded
+2017-06-01T14:20:11.747Z - success: ui-grid loaded
+2017-06-01T14:20:11.784Z - success: scene loaded
+2017-06-01T14:20:11.791Z - success: sprite-editor loaded
+2017-06-01T14:20:11.809Z - success: store loaded
+2017-06-01T14:20:11.831Z - success: timeline loaded
+2017-06-01T14:20:11.832Z - normal: Loading builtin packages
+2017-06-01T14:20:11.843Z - success: asset-db-debugger loaded
+2017-06-01T14:20:11.849Z - success: code-editor loaded
+2017-06-01T14:20:11.852Z - success: color-picker loaded
+2017-06-01T14:20:11.866Z - success: console loaded
+2017-06-01T14:20:11.876Z - success: package-manager loaded
+2017-06-01T14:20:11.888Z - success: tester loaded
+2017-06-01T14:20:11.895Z - success: ui-kit-preview-extra loaded
+2017-06-01T14:20:11.904Z - success: ui-kit-preview loaded
+2017-06-01T14:20:11.919Z - success: ui-tree loaded
+2017-06-01T14:20:12.187Z - normal: Initializing project C:\Users\Osman\Desktop\School\start_project
+2017-06-01T14:20:12.216Z - normal: Loading packages
+2017-06-01T14:20:12.236Z - normal: Watching packages
+2017-06-01T14:20:12.297Z - normal: Run Application
+2017-06-01T14:20:15.460Z - success: preview server running at http://localhost:7456
+2017-06-01T14:20:30.774Z - normal: 1.5.0
+2017-06-01T14:55:07.153Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-06-01T14:55:07.162Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-06-01T14:55:07.163Z - normal: Simulator: FRAME SCALE = 1.00
+2017-06-01T14:55:07.800Z - normal: Simulator: Ready for GLSL
+2017-06-01T14:55:07.803Z - normal: Simulator: Ready for OpenGL 2.0
+2017-06-01T14:55:07.808Z - normal: Simulator: 
+2017-06-01T14:55:07.808Z - normal: Simulator: {
+2017-06-01T14:55:07.809Z - normal: Simulator: 	gl.version: 4.5.13399 Compatibility Profile Context 15.201.1101.0
+2017-06-01T14:55:07.809Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-06-01T14:55:07.810Z - normal: Simulator: 	cocos2d.x.version: 1.5.0
+2017-06-01T14:55:07.810Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-06-01T14:55:07.811Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-06-01T14:55:07.811Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-06-01T14:55:07.811Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-06-01T14:55:07.812Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-06-01T14:55:07.813Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2017-06-01T14:55:07.813Z - normal: Simulator: 	gl.renderer: AMD Radeon(TM) R6 Graphics
+2017-06-01T14:55:07.814Z - normal: Simulator: 	gl.max_texture_units: 192
+2017-06-01T14:55:07.814Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-06-01T14:55:07.815Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-06-01T14:55:07.815Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-06-01T14:55:07.816Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-06-01T14:55:07.816Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-06-01T14:55:07.821Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-06-01T14:55:07.831Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-06-01T14:55:07.832Z - normal: Simulator: }
+2017-06-01T14:55:07.833Z - normal: Simulator: 
+2017-06-01T14:55:07.833Z - normal: Simulator: 
+2017-06-01T14:55:07.833Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-06-01T14:55:07.834Z - normal: Simulator: Project Config:
+2017-06-01T14:55:07.834Z - normal: Simulator:     project dir: C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-06-01T14:55:07.837Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-06-01T14:55:07.838Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-06-01T14:55:07.840Z - normal: Simulator:     frame size: 960 x 640
+2017-06-01T14:55:07.841Z - normal: Simulator:     frame scale: 1.00
+2017-06-01T14:55:07.843Z - normal: Simulator:     show console: NO
+2017-06-01T14:55:07.844Z - normal: Simulator:     write debug log: NO ()
+2017-06-01T14:55:07.845Z - normal: Simulator:     listen: 
+2017-06-01T14:55:07.845Z - normal: Simulator:     debugger: none
+2017-06-01T14:55:07.846Z - normal: Simulator:     add searching path:
+2017-06-01T14:55:07.846Z - normal: Simulator: 
+2017-06-01T14:55:07.847Z - normal: Simulator: 
+2017-06-01T14:55:07.848Z - normal: Simulator: 
+2017-06-01T14:55:07.848Z - normal: Simulator: ------------------------------------------------
+2017-06-01T14:55:07.849Z - normal: Simulator: LOAD Js FILE: main.js
+2017-06-01T14:55:07.849Z - normal: Simulator: ------------------------------------------------
+2017-06-01T14:55:08.155Z - normal: Simulator: Cocos2d-JS v3.14
+2017-06-01T14:55:09.252Z - normal: Simulator: iShow!
+2017-06-01T14:55:10.950Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-06-01T14:55:10.951Z - normal: Simulator: V/AudioCache (70): AudioCache() 0A6A4D8C, id=1
+2017-06-01T14:55:10.952Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-06-01T14:55:10.953Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 7541, total read frames: 7541, adjust frames: 0, remainingFrames: 0
+2017-06-01T14:55:10.954Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-06-01T14:55:10.955Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-06-01T14:55:10.955Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09296180), id=1
+2017-06-01T14:55:10.956Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-06-01T14:55:10.956Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T14:55:10.957Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T14:55:10.957Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-06-01T14:55:10.958Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-06-01T14:55:10.958Z - normal: Simulator: basic_object_finalize 08D31740 ...
+2017-06-01T14:55:10.958Z - normal: Simulator: jsbindings: finalizing JS object 08D31760 (WebSocket)
+2017-06-01T14:55:10.959Z - normal: Simulator: jsbindings: finalizing JS object 08D31780 (SocketIO)
+2017-06-01T14:57:51.888Z - error: TypeError: Path must be a string. Received null
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:466:7)
+    at Object.run (C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\builtin\tester\main.js:1:549)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at WebContents.<anonymous> (C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\electron.asar\browser\api\web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.<anonymous> (C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:983)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-06-01T14:58:11.955Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-22",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\Osman\\Desktop\\School\\start_project\\build",
+  "debug": false,
+  "dest": "C:\\Users\\Osman\\Desktop\\School\\start_project\\build\\jsb-default",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.mygame",
+  "platform": "android",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/game.fire",
+      "uuid": "8397ebb1-2218-48c6-ac37-13e6c3854fac"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "8397ebb1-2218-48c6-ac37-13e6c3854fac",
+  "template": "default",
+  "title": "Defense",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "C:\\Users\\Osman\\Desktop\\School\\start_project",
+  "projectName": "Defense",
+  "runtimePath": "C:\\Users\\Osman\\Desktop\\cocosCreator\\CocosCreator\\resources\\engine",
+  "debugBuildWorker": false
+}
+2017-06-01T14:58:11.961Z - normal: Building C:\Users\Osman\Desktop\School\start_project
+2017-06-01T14:58:11.961Z - normal: Destination C:\Users\Osman\Desktop\School\start_project\build\jsb-default
+2017-06-01T14:58:15.874Z - error: Build Failed: Error: ENOENT: no such file or directory, open 'C:\Users\Osman\Desktop\School\start_project\build\jsb-default\frameworks\runtime-src\proj.android\ant.properties'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at updateAndroidConfig (C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:9019)
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17110
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:4622
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:269:32
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\editor\core\builder.js:1:3806
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:12815)
+    at Gulp.Orchestrator.stop (C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2017-06-01T15:02:35.800Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-06-01T15:02:35.807Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-06-01T15:02:35.808Z - normal: Simulator: FRAME SCALE = 1.00
+2017-06-01T15:02:36.365Z - normal: Simulator: Ready for GLSL
+2017-06-01T15:02:36.365Z - normal: Simulator: Ready for OpenGL 2.0
+2017-06-01T15:02:36.366Z - normal: Simulator: 
+2017-06-01T15:02:36.366Z - normal: Simulator: {
+2017-06-01T15:02:36.367Z - normal: Simulator: 	gl.version: 4.5.13399 Compatibility Profile Context 15.201.1101.0
+2017-06-01T15:02:36.367Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-06-01T15:02:36.368Z - normal: Simulator: 	cocos2d.x.version: 1.5.0
+2017-06-01T15:02:36.368Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-06-01T15:02:36.369Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-06-01T15:02:36.372Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-06-01T15:02:36.373Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-06-01T15:02:36.374Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-06-01T15:02:36.374Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2017-06-01T15:02:36.376Z - normal: Simulator: 	gl.renderer: AMD Radeon(TM) R6 Graphics
+2017-06-01T15:02:36.376Z - normal: Simulator: 	gl.max_texture_units: 192
+2017-06-01T15:02:36.377Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-06-01T15:02:36.377Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-06-01T15:02:36.378Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-06-01T15:02:36.379Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-06-01T15:02:36.380Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-06-01T15:02:36.381Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-06-01T15:02:36.381Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-06-01T15:02:36.382Z - normal: Simulator: }
+2017-06-01T15:02:36.382Z - normal: Simulator: 
+2017-06-01T15:02:36.382Z - normal: Simulator: 
+2017-06-01T15:02:36.383Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-06-01T15:02:36.384Z - normal: Simulator: Project Config:
+2017-06-01T15:02:36.384Z - normal: Simulator:     project dir: C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-06-01T15:02:36.385Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-06-01T15:02:36.385Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-06-01T15:02:36.386Z - normal: Simulator:     frame size: 960 x 640
+2017-06-01T15:02:36.386Z - normal: Simulator:     frame scale: 1.00
+2017-06-01T15:02:36.386Z - normal: Simulator:     show console: NO
+2017-06-01T15:02:36.387Z - normal: Simulator:     write debug log: NO ()
+2017-06-01T15:02:36.389Z - normal: Simulator:     listen: 
+2017-06-01T15:02:36.390Z - normal: Simulator:     debugger: none
+2017-06-01T15:02:36.390Z - normal: Simulator:     add searching path:
+2017-06-01T15:02:36.394Z - normal: Simulator: 
+2017-06-01T15:02:36.395Z - normal: Simulator: 
+2017-06-01T15:02:36.407Z - normal: Simulator: 
+2017-06-01T15:02:36.409Z - normal: Simulator: ------------------------------------------------
+2017-06-01T15:02:36.412Z - normal: Simulator: LOAD Js FILE: main.js
+2017-06-01T15:02:36.413Z - normal: Simulator: ------------------------------------------------
+2017-06-01T15:02:36.728Z - normal: Simulator: Cocos2d-JS v3.14
+2017-06-01T15:02:37.823Z - normal: Simulator: iShow!
+2017-06-01T15:02:43.456Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-06-01T15:02:43.457Z - normal: Simulator: V/AudioCache (70): AudioCache() 0A7A02FC, id=1
+2017-06-01T15:02:43.457Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-06-01T15:02:43.457Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 7541, total read frames: 7541, adjust frames: 0, remainingFrames: 0
+2017-06-01T15:02:43.458Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-06-01T15:02:43.458Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-06-01T15:02:43.459Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09385D98), id=1
+2017-06-01T15:02:43.459Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-06-01T15:02:43.460Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.460Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.460Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-06-01T15:02:43.461Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-06-01T15:02:43.461Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09386608), id=2
+2017-06-01T15:02:43.462Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=2
+2017-06-01T15:02:43.462Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.462Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.463Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=2
+2017-06-01T15:02:43.464Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=3
+2017-06-01T15:02:43.465Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09386608), id=3
+2017-06-01T15:02:43.466Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-06-01T15:02:43.467Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.467Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.468Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-06-01T15:02:43.468Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=4
+2017-06-01T15:02:43.469Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09385D98), id=4
+2017-06-01T15:02:43.470Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-06-01T15:02:43.470Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.470Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.471Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-06-01T15:02:43.471Z - normal: Simulator: V/AudioCache (70): AudioCache() 0A79F09C, id=2
+2017-06-01T15:02:43.472Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-06-01T15:02:43.472Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 24232, total read frames: 24232, adjust frames: 0, remainingFrames: 0
+2017-06-01T15:02:43.473Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=5
+2017-06-01T15:02:43.473Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-06-01T15:02:43.474Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=6
+2017-06-01T15:02:43.474Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=7
+2017-06-01T15:02:43.475Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07FEDF30), id=7
+2017-06-01T15:02:43.475Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-06-01T15:02:43.476Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.476Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.476Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-06-01T15:02:43.477Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (093862A8), id=5
+2017-06-01T15:02:43.477Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-06-01T15:02:43.478Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.478Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.479Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-06-01T15:02:43.480Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09386608), id=6
+2017-06-01T15:02:43.481Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-06-01T15:02:43.481Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.482Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.483Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-06-01T15:02:43.484Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=8
+2017-06-01T15:02:43.485Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07FED480), id=8
+2017-06-01T15:02:43.485Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=8
+2017-06-01T15:02:43.486Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.486Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.488Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=8
+2017-06-01T15:02:43.489Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=9
+2017-06-01T15:02:43.490Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=10
+2017-06-01T15:02:43.490Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09386608), id=10
+2017-06-01T15:02:43.490Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=10
+2017-06-01T15:02:43.491Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.492Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.492Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=10
+2017-06-01T15:02:43.493Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07FEDF30), id=9
+2017-06-01T15:02:43.493Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=9
+2017-06-01T15:02:43.494Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.494Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.494Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=9
+2017-06-01T15:02:43.495Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=11
+2017-06-01T15:02:43.496Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09386608), id=11
+2017-06-01T15:02:43.496Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=11
+2017-06-01T15:02:43.497Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:43.497Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:43.498Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=11
+2017-06-01T15:02:43.498Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=12
+2017-06-01T15:02:43.498Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2
+2017-06-01T15:02:50.412Z - normal: Simulator: d, _alSource: 2, player id=13
+2017-06-01T15:02:50.413Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B27650), id=13
+2017-06-01T15:02:50.414Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=13
+2017-06-01T15:02:50.414Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.416Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.423Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=13
+2017-06-01T15:02:50.425Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09386608), id=12
+2017-06-01T15:02:50.428Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=12
+2017-06-01T15:02:50.428Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.429Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.429Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=12
+2017-06-01T15:02:50.430Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=14
+2017-06-01T15:02:50.430Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26690), id=14
+2017-06-01T15:02:50.431Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=14
+2017-06-01T15:02:50.432Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.433Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.433Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=14
+2017-06-01T15:02:50.434Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=15
+2017-06-01T15:02:50.435Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26C30), id=15
+2017-06-01T15:02:50.436Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=15
+2017-06-01T15:02:50.437Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.437Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.438Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=15
+2017-06-01T15:02:50.438Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=16
+2017-06-01T15:02:50.439Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26690), id=16
+2017-06-01T15:02:50.439Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=16
+2017-06-01T15:02:50.440Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.440Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.440Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=16
+2017-06-01T15:02:50.441Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=17
+2017-06-01T15:02:50.441Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26CC0), id=17
+2017-06-01T15:02:50.442Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=17
+2017-06-01T15:02:50.442Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.443Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.443Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=17
+2017-06-01T15:02:50.443Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=18
+2017-06-01T15:02:50.444Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=19
+2017-06-01T15:02:50.444Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26DE0), id=19
+2017-06-01T15:02:50.445Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=19
+2017-06-01T15:02:50.445Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.445Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.446Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=19
+2017-06-01T15:02:50.446Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B27410), id=18
+2017-06-01T15:02:50.447Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=18
+2017-06-01T15:02:50.448Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.448Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.450Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=18
+2017-06-01T15:02:50.451Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=20
+2017-06-01T15:02:50.452Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26960), id=20
+2017-06-01T15:02:50.454Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=20
+2017-06-01T15:02:50.454Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.455Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.456Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=20
+2017-06-01T15:02:50.456Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=21
+2017-06-01T15:02:50.457Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26F00), id=21
+2017-06-01T15:02:50.457Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=21
+2017-06-01T15:02:50.461Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.461Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.462Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=21
+2017-06-01T15:02:50.463Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=22
+2017-06-01T15:02:50.463Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26CC0), id=22
+2017-06-01T15:02:50.464Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=22
+2017-06-01T15:02:50.465Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.465Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.465Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=22
+2017-06-01T15:02:50.466Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=23
+2017-06-01T15:02:50.466Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26570), id=23
+2017-06-01T15:02:50.466Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=23
+2017-06-01T15:02:50.468Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.469Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.470Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=23
+2017-06-01T15:02:50.471Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=24
+2017-06-01T15:02:50.475Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26720), id=24
+2017-06-01T15:02:50.475Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=24
+2017-06-01T15:02:50.476Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:50.476Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:50.477Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=24
+2017-06-01T15:02:50.477Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=25
+2017-06-01T15:02:50.477Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=26
+2017-06-01T15:02:50.478Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26600), id=26
+2017-06-01T15:02:50.478Z - normal: Simulator: V/AudioPl
+2017-06-01T15:02:55.827Z - normal: Simulator: ayer (82): AudioPlayer::destroy begin, id=26
+2017-06-01T15:02:55.827Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.828Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.828Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=26
+2017-06-01T15:02:55.828Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26DE0), id=25
+2017-06-01T15:02:55.829Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=25
+2017-06-01T15:02:55.829Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.830Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.830Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=25
+2017-06-01T15:02:55.830Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=27
+2017-06-01T15:02:55.831Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B27260), id=27
+2017-06-01T15:02:55.832Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=27
+2017-06-01T15:02:55.832Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.833Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.834Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=27
+2017-06-01T15:02:55.835Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=28
+2017-06-01T15:02:55.838Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=29
+2017-06-01T15:02:55.842Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=30
+2017-06-01T15:02:55.842Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26570), id=28
+2017-06-01T15:02:55.843Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=28
+2017-06-01T15:02:55.843Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.844Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.844Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=28
+2017-06-01T15:02:55.846Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=31
+2017-06-01T15:02:55.847Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26CC0), id=29
+2017-06-01T15:02:55.847Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=29
+2017-06-01T15:02:55.847Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.848Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.848Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=29
+2017-06-01T15:02:55.848Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B27260), id=30
+2017-06-01T15:02:55.849Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=30
+2017-06-01T15:02:55.849Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.849Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.850Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=30
+2017-06-01T15:02:55.851Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B269F0), id=31
+2017-06-01T15:02:55.851Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=31
+2017-06-01T15:02:55.852Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.853Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.854Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=31
+2017-06-01T15:02:55.855Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=32
+2017-06-01T15:02:55.856Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=33
+2017-06-01T15:02:55.857Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B267B0), id=32
+2017-06-01T15:02:55.858Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=32
+2017-06-01T15:02:55.859Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.859Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.859Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=32
+2017-06-01T15:02:55.860Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=34
+2017-06-01T15:02:55.860Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B27140), id=33
+2017-06-01T15:02:55.861Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=33
+2017-06-01T15:02:55.861Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.861Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.862Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=33
+2017-06-01T15:02:55.862Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26690), id=34
+2017-06-01T15:02:55.863Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=34
+2017-06-01T15:02:55.863Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.864Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.864Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=34
+2017-06-01T15:02:55.866Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=35
+2017-06-01T15:02:55.867Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B27140), id=35
+2017-06-01T15:02:55.867Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=35
+2017-06-01T15:02:55.868Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.868Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.869Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=35
+2017-06-01T15:02:55.870Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=36
+2017-06-01T15:02:55.872Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B267B0), id=36
+2017-06-01T15:02:55.873Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=36
+2017-06-01T15:02:55.873Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.874Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.875Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=36
+2017-06-01T15:02:55.876Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=37
+2017-06-01T15:02:55.877Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26DE0), id=37
+2017-06-01T15:02:55.878Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=37
+2017-06-01T15:02:55.878Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.878Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:02:55.879Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=37
+2017-06-01T15:02:55.879Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=38
+2017-06-01T15:02:55.880Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=39
+2017-06-01T15:02:55.880Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B275C0), id=38
+2017-06-01T15:02:55.880Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=38
+2017-06-01T15:02:55.881Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:02:55.881Z - normal: Simulator: V/Audi
+2017-06-01T15:03:02.423Z - normal: Simulator: oPlayer (129): Before alSourcei
+2017-06-01T15:03:02.424Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=38
+2017-06-01T15:03:02.424Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=40
+2017-06-01T15:03:02.425Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26690), id=39
+2017-06-01T15:03:02.425Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=39
+2017-06-01T15:03:02.426Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.426Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.427Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=39
+2017-06-01T15:03:02.427Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26DE0), id=40
+2017-06-01T15:03:02.427Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=40
+2017-06-01T15:03:02.428Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.428Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.429Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=40
+2017-06-01T15:03:02.429Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=41
+2017-06-01T15:03:02.430Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B267B0), id=41
+2017-06-01T15:03:02.430Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=41
+2017-06-01T15:03:02.431Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.431Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.431Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=41
+2017-06-01T15:03:02.432Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=42
+2017-06-01T15:03:02.432Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=43
+2017-06-01T15:03:02.433Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B267B0), id=43
+2017-06-01T15:03:02.433Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=43
+2017-06-01T15:03:02.434Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.435Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.435Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=43
+2017-06-01T15:03:02.438Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B271D0), id=42
+2017-06-01T15:03:02.439Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=42
+2017-06-01T15:03:02.440Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.440Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.441Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=42
+2017-06-01T15:03:02.441Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=44
+2017-06-01T15:03:02.441Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B267B0), id=44
+2017-06-01T15:03:02.442Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=44
+2017-06-01T15:03:02.442Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.442Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.443Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=44
+2017-06-01T15:03:02.443Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=45
+2017-06-01T15:03:02.444Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26840), id=45
+2017-06-01T15:03:02.444Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=45
+2017-06-01T15:03:02.444Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.445Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.445Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=45
+2017-06-01T15:03:02.446Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=46
+2017-06-01T15:03:02.447Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B272F0), id=46
+2017-06-01T15:03:02.448Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=46
+2017-06-01T15:03:02.449Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.449Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.450Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=46
+2017-06-01T15:03:02.451Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=47
+2017-06-01T15:03:02.452Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=48
+2017-06-01T15:03:02.454Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26F90), id=47
+2017-06-01T15:03:02.455Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=47
+2017-06-01T15:03:02.456Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.456Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.457Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=47
+2017-06-01T15:03:02.458Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=49
+2017-06-01T15:03:02.458Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26F00), id=48
+2017-06-01T15:03:02.459Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=48
+2017-06-01T15:03:02.459Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.460Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.460Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=48
+2017-06-01T15:03:02.460Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B276E0), id=49
+2017-06-01T15:03:02.461Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=49
+2017-06-01T15:03:02.462Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.462Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.463Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=49
+2017-06-01T15:03:02.463Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=50
+2017-06-01T15:03:02.463Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B271D0), id=50
+2017-06-01T15:03:02.464Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=50
+2017-06-01T15:03:02.464Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.465Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.466Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=50
+2017-06-01T15:03:02.468Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=51
+2017-06-01T15:03:02.468Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B276E0), id=51
+2017-06-01T15:03:02.468Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=51
+2017-06-01T15:03:02.470Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:02.471Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:02.473Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=51
+2017-06-01T15:03:02.474Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=52
+2017-06-01T15:03:02.474Z - normal: Simulator: V/Audio
+2017-06-01T15:03:04.062Z - normal: Simulator: Player (68): ~AudioPlayer() (00B276E0), id=52
+2017-06-01T15:03:04.063Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=52
+2017-06-01T15:03:04.064Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:04.065Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:04.066Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=52
+2017-06-01T15:03:04.066Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=53
+2017-06-01T15:03:04.067Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=54
+2017-06-01T15:03:04.067Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26570), id=54
+2017-06-01T15:03:04.067Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=54
+2017-06-01T15:03:04.068Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:04.068Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:04.069Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=54
+2017-06-01T15:03:04.069Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=55
+2017-06-01T15:03:04.069Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B272F0), id=53
+2017-06-01T15:03:04.070Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=53
+2017-06-01T15:03:04.070Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:04.071Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:04.071Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=53
+2017-06-01T15:03:04.071Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=56
+2017-06-01T15:03:04.072Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B270B0), id=56
+2017-06-01T15:03:04.072Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=56
+2017-06-01T15:03:04.073Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:04.073Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:04.073Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=56
+2017-06-01T15:03:04.077Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (00B26570), id=55
+2017-06-01T15:03:04.079Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=55
+2017-06-01T15:03:04.082Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:03:04.082Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:03:04.083Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=55
+2017-06-01T15:03:04.083Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=57
+2017-06-01T15:03:04.083Z - normal: Simulator: basic_object_finalize 08E31740 ...
+2017-06-01T15:03:04.084Z - normal: Simulator: jsbindings: finalizing JS object 08E31760 (WebSocket)
+2017-06-01T15:03:04.084Z - normal: Simulator: jsbindings: finalizing JS object 08E31780 (SocketIO)
+2017-06-01T15:12:45.555Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-06-01T15:12:45.561Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-06-01T15:12:45.563Z - normal: Simulator: FRAME SCALE = 1.00
+2017-06-01T15:12:46.162Z - normal: Simulator: Ready for GLSL
+2017-06-01T15:12:46.164Z - normal: Simulator: Ready for OpenGL 2.0
+2017-06-01T15:12:46.165Z - normal: Simulator: 
+2017-06-01T15:12:46.165Z - normal: Simulator: {
+2017-06-01T15:12:46.166Z - normal: Simulator: 	gl.version: 4.5.13399 Compatibility Profile Context 15.201.1101.0
+2017-06-01T15:12:46.166Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-06-01T15:12:46.167Z - normal: Simulator: 	cocos2d.x.version: 1.5.0
+2017-06-01T15:12:46.168Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-06-01T15:12:46.169Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-06-01T15:12:46.170Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-06-01T15:12:46.171Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-06-01T15:12:46.173Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-06-01T15:12:46.174Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2017-06-01T15:12:46.174Z - normal: Simulator: 	gl.renderer: AMD Radeon(TM) R6 Graphics
+2017-06-01T15:12:46.175Z - normal: Simulator: 	gl.max_texture_units: 192
+2017-06-01T15:12:46.176Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-06-01T15:12:46.176Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-06-01T15:12:46.176Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-06-01T15:12:46.177Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-06-01T15:12:46.178Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-06-01T15:12:46.179Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-06-01T15:12:46.180Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-06-01T15:12:46.180Z - normal: Simulator: }
+2017-06-01T15:12:46.181Z - normal: Simulator: 
+2017-06-01T15:12:46.182Z - normal: Simulator: 
+2017-06-01T15:12:46.184Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-06-01T15:12:46.185Z - normal: Simulator: Project Config:
+2017-06-01T15:12:46.186Z - normal: Simulator:     project dir: C:\Users\Osman\Desktop\cocosCreator\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-06-01T15:12:46.186Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-06-01T15:12:46.187Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-06-01T15:12:46.188Z - normal: Simulator:     frame size: 960 x 640
+2017-06-01T15:12:46.190Z - normal: Simulator:     frame scale: 1.00
+2017-06-01T15:12:46.190Z - normal: Simulator:     show console: NO
+2017-06-01T15:12:46.191Z - normal: Simulator:     write debug log: NO ()
+2017-06-01T15:12:46.192Z - normal: Simulator:     listen: 
+2017-06-01T15:12:46.192Z - normal: Simulator:     debugger: none
+2017-06-01T15:12:46.192Z - normal: Simulator:     add searching path:
+2017-06-01T15:12:46.193Z - normal: Simulator: 
+2017-06-01T15:12:46.194Z - normal: Simulator: 
+2017-06-01T15:12:46.194Z - normal: Simulator: 
+2017-06-01T15:12:46.194Z - normal: Simulator: ------------------------------------------------
+2017-06-01T15:12:46.196Z - normal: Simulator: LOAD Js FILE: main.js
+2017-06-01T15:12:46.196Z - normal: Simulator: ------------------------------------------------
+2017-06-01T15:12:46.501Z - normal: Simulator: Cocos2d-JS v3.14
+2017-06-01T15:12:47.612Z - normal: Simulator: iShow!
+2017-06-01T15:12:57.893Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-06-01T15:12:57.893Z - normal: Simulator: V/AudioCache (70): AudioCache() 091B3AEC, id=1
+2017-06-01T15:12:57.894Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-06-01T15:12:57.894Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 7541, total read frames: 7541, adjust frames: 0, remainingFrames: 0
+2017-06-01T15:12:57.895Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-06-01T15:12:57.895Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-06-01T15:12:57.896Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A542200), id=1
+2017-06-01T15:12:57.897Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-06-01T15:12:57.897Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.898Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.899Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-06-01T15:12:57.900Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-06-01T15:12:57.901Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A542200), id=2
+2017-06-01T15:12:57.902Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=2
+2017-06-01T15:12:57.903Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.903Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.903Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=2
+2017-06-01T15:12:57.904Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=3
+2017-06-01T15:12:57.905Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A542200), id=3
+2017-06-01T15:12:57.906Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-06-01T15:12:57.907Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.907Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.908Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-06-01T15:12:57.909Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=4
+2017-06-01T15:12:57.909Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A542200), id=4
+2017-06-01T15:12:57.910Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-06-01T15:12:57.910Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.910Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.911Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-06-01T15:12:57.911Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=5
+2017-06-01T15:12:57.912Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A541750), id=5
+2017-06-01T15:12:57.912Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-06-01T15:12:57.912Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.913Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.914Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-06-01T15:12:57.914Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=6
+2017-06-01T15:12:57.915Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F9388), id=6
+2017-06-01T15:12:57.915Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-06-01T15:12:57.916Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.916Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.916Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-06-01T15:12:57.917Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=7
+2017-06-01T15:12:57.918Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8968), id=7
+2017-06-01T15:12:57.918Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-06-01T15:12:57.919Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.920Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.921Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-06-01T15:12:57.922Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=8
+2017-06-01T15:12:57.923Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F91D8), id=8
+2017-06-01T15:12:57.924Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=8
+2017-06-01T15:12:57.925Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.925Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.925Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=8
+2017-06-01T15:12:57.926Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=9
+2017-06-01T15:12:57.926Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=9
+2017-06-01T15:12:57.927Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=9
+2017-06-01T15:12:57.928Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.928Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.929Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=9
+2017-06-01T15:12:57.929Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=10
+2017-06-01T15:12:57.930Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F90B8), id=10
+2017-06-01T15:12:57.930Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=10
+2017-06-01T15:12:57.932Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.933Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.934Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=10
+2017-06-01T15:12:57.935Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=11
+2017-06-01T15:12:57.935Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F9538), id=11
+2017-06-01T15:12:57.936Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=11
+2017-06-01T15:12:57.936Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.937Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.937Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=11
+2017-06-01T15:12:57.938Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=12
+2017-06-01T15:12:57.938Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F92F8), id=12
+2017-06-01T15:12:57.938Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=12
+2017-06-01T15:12:57.939Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:12:57.939Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:12:57.940Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=12
+2017-06-01T15:12:57.940Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=13
+2017-06-01T15:12:57.940Z - normal: Simulator: V/AudioPlayer (68)
+2017-06-01T15:13:04.257Z - normal: Simulator: : ~AudioPlayer() (0A7F9268), id=13
+2017-06-01T15:13:04.258Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=13
+2017-06-01T15:13:04.258Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.258Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.259Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=13
+2017-06-01T15:13:04.260Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=14
+2017-06-01T15:13:04.260Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8B18), id=14
+2017-06-01T15:13:04.260Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=14
+2017-06-01T15:13:04.261Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.261Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.262Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=14
+2017-06-01T15:13:04.263Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=15
+2017-06-01T15:13:04.263Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F91D8), id=15
+2017-06-01T15:13:04.264Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=15
+2017-06-01T15:13:04.264Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.264Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.265Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=15
+2017-06-01T15:13:04.265Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=16
+2017-06-01T15:13:04.266Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=16
+2017-06-01T15:13:04.267Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=16
+2017-06-01T15:13:04.268Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.269Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.269Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=16
+2017-06-01T15:13:04.270Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=17
+2017-06-01T15:13:04.271Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F92F8), id=17
+2017-06-01T15:13:04.272Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=17
+2017-06-01T15:13:04.272Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.273Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.273Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=17
+2017-06-01T15:13:04.274Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=18
+2017-06-01T15:13:04.274Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F92F8), id=18
+2017-06-01T15:13:04.274Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=18
+2017-06-01T15:13:04.275Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.275Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.276Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=18
+2017-06-01T15:13:04.276Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=19
+2017-06-01T15:13:04.277Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8BA8), id=19
+2017-06-01T15:13:04.277Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=19
+2017-06-01T15:13:04.278Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.279Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.280Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=19
+2017-06-01T15:13:04.280Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=20
+2017-06-01T15:13:04.281Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8BA8), id=20
+2017-06-01T15:13:04.284Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=20
+2017-06-01T15:13:04.285Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.286Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.287Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=20
+2017-06-01T15:13:04.288Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=21
+2017-06-01T15:13:04.288Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8BA8), id=21
+2017-06-01T15:13:04.288Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=21
+2017-06-01T15:13:04.289Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.289Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.289Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=21
+2017-06-01T15:13:04.291Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=22
+2017-06-01T15:13:04.292Z - normal: Simulator: V/AudioCache (70): AudioCache() 091B3A0C, id=2
+2017-06-01T15:13:04.292Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-06-01T15:13:04.293Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 24232, total read frames: 24232, adjust frames: 0, remainingFrames: 0
+2017-06-01T15:13:04.294Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=23
+2017-06-01T15:13:04.295Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-06-01T15:13:04.295Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=22
+2017-06-01T15:13:04.295Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=22
+2017-06-01T15:13:04.296Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.296Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.296Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=22
+2017-06-01T15:13:04.297Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=24
+2017-06-01T15:13:04.297Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=25
+2017-06-01T15:13:04.299Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8BA8), id=23
+2017-06-01T15:13:04.299Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=23
+2017-06-01T15:13:04.300Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.301Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.302Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=23
+2017-06-01T15:13:04.302Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7A38), id=25
+2017-06-01T15:13:04.303Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=25
+2017-06-01T15:13:04.303Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:04.303Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:04.304Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=25
+2017-06-01T15:13:04.304Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=24
+2017-06-01T15:13:04.305Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=24
+2017-06-01T15:13:04.305Z - normal: Simulator: V/AudioPlayer (127): Bef
+2017-06-01T15:13:11.505Z - normal: Simulator: ore alSourceStop
+2017-06-01T15:13:11.509Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.510Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=24
+2017-06-01T15:13:11.510Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=26
+2017-06-01T15:13:11.511Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=26
+2017-06-01T15:13:11.511Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=26
+2017-06-01T15:13:11.512Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.513Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.513Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=26
+2017-06-01T15:13:11.514Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=27
+2017-06-01T15:13:11.515Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=28
+2017-06-01T15:13:11.516Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7B58), id=28
+2017-06-01T15:13:11.516Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=28
+2017-06-01T15:13:11.517Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.517Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.518Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=28
+2017-06-01T15:13:11.518Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=27
+2017-06-01T15:13:11.519Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=27
+2017-06-01T15:13:11.519Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.520Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.520Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=27
+2017-06-01T15:13:11.520Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=29
+2017-06-01T15:13:11.521Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=29
+2017-06-01T15:13:11.521Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=29
+2017-06-01T15:13:11.521Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.522Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.522Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=29
+2017-06-01T15:13:11.522Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=30
+2017-06-01T15:13:11.523Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=30
+2017-06-01T15:13:11.523Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=30
+2017-06-01T15:13:11.524Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.524Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.525Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=30
+2017-06-01T15:13:11.525Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=31
+2017-06-01T15:13:11.526Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=31
+2017-06-01T15:13:11.526Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=31
+2017-06-01T15:13:11.526Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.527Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.527Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=31
+2017-06-01T15:13:11.528Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=32
+2017-06-01T15:13:11.528Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=32
+2017-06-01T15:13:11.528Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=32
+2017-06-01T15:13:11.529Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.529Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.530Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=32
+2017-06-01T15:13:11.530Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=33
+2017-06-01T15:13:11.531Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=33
+2017-06-01T15:13:11.531Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=33
+2017-06-01T15:13:11.532Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.533Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.533Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=33
+2017-06-01T15:13:11.534Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=34
+2017-06-01T15:13:11.535Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=34
+2017-06-01T15:13:11.535Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=34
+2017-06-01T15:13:11.536Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.536Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.537Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=34
+2017-06-01T15:13:11.537Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=35
+2017-06-01T15:13:11.538Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=35
+2017-06-01T15:13:11.538Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=35
+2017-06-01T15:13:11.538Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.539Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.539Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=35
+2017-06-01T15:13:11.539Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=36
+2017-06-01T15:13:11.540Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=36
+2017-06-01T15:13:11.540Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=36
+2017-06-01T15:13:11.540Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.541Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.541Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=36
+2017-06-01T15:13:11.541Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=37
+2017-06-01T15:13:11.542Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=37
+2017-06-01T15:13:11.542Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=37
+2017-06-01T15:13:11.543Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.543Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.543Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=37
+2017-06-01T15:13:11.544Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=38
+2017-06-01T15:13:11.544Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=38
+2017-06-01T15:13:11.544Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=38
+2017-06-01T15:13:11.545Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:11.545Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:11.546Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::des
+2017-06-01T15:13:17.372Z - normal: Simulator: troy end, id=38
+2017-06-01T15:13:17.373Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=39
+2017-06-01T15:13:17.374Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=39
+2017-06-01T15:13:17.374Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=39
+2017-06-01T15:13:17.375Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.375Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.375Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=39
+2017-06-01T15:13:17.376Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=40
+2017-06-01T15:13:17.376Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=41
+2017-06-01T15:13:17.377Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=42
+2017-06-01T15:13:17.378Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7EB8), id=42
+2017-06-01T15:13:17.378Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=42
+2017-06-01T15:13:17.378Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.379Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.380Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=42
+2017-06-01T15:13:17.380Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F89F8), id=40
+2017-06-01T15:13:17.381Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=40
+2017-06-01T15:13:17.382Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.383Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.384Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=40
+2017-06-01T15:13:17.386Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F84E8), id=41
+2017-06-01T15:13:17.388Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=41
+2017-06-01T15:13:17.389Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.390Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.390Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=41
+2017-06-01T15:13:17.391Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=43
+2017-06-01T15:13:17.391Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=44
+2017-06-01T15:13:17.392Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7E28), id=43
+2017-06-01T15:13:17.392Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=43
+2017-06-01T15:13:17.392Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.393Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.393Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=43
+2017-06-01T15:13:17.394Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=45
+2017-06-01T15:13:17.394Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7A38), id=44
+2017-06-01T15:13:17.395Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=44
+2017-06-01T15:13:17.395Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.395Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.396Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=44
+2017-06-01T15:13:17.399Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7E28), id=45
+2017-06-01T15:13:17.401Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=45
+2017-06-01T15:13:17.402Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.402Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.403Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=45
+2017-06-01T15:13:17.403Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=46
+2017-06-01T15:13:17.404Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7E28), id=46
+2017-06-01T15:13:17.404Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=46
+2017-06-01T15:13:17.405Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.405Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.406Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=46
+2017-06-01T15:13:17.407Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=47
+2017-06-01T15:13:17.408Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8188), id=47
+2017-06-01T15:13:17.408Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=47
+2017-06-01T15:13:17.409Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.409Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.409Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=47
+2017-06-01T15:13:17.410Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=48
+2017-06-01T15:13:17.410Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=49
+2017-06-01T15:13:17.411Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7E28), id=48
+2017-06-01T15:13:17.411Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=48
+2017-06-01T15:13:17.411Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.412Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.412Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=48
+2017-06-01T15:13:17.412Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=50
+2017-06-01T15:13:17.413Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F83C8), id=49
+2017-06-01T15:13:17.414Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=49
+2017-06-01T15:13:17.415Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.417Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.418Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=49
+2017-06-01T15:13:17.419Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8188), id=50
+2017-06-01T15:13:17.420Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=50
+2017-06-01T15:13:17.421Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.421Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.422Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=50
+2017-06-01T15:13:17.422Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=51
+2017-06-01T15:13:17.423Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7B58), id=51
+2017-06-01T15:13:17.423Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=51
+2017-06-01T15:13:17.424Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:17.424Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:17.424Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=51
+2017-06-01T15:13:17.425Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=52
+2017-06-01T15:13:17.425Z - normal: Simulator: V/Audio
+2017-06-01T15:13:25.258Z - normal: Simulator: Player (68): ~AudioPlayer() (0A7F79A8), id=52
+2017-06-01T15:13:25.258Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=52
+2017-06-01T15:13:25.259Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.259Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.260Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=52
+2017-06-01T15:13:25.261Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=53
+2017-06-01T15:13:25.261Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F7B58), id=53
+2017-06-01T15:13:25.262Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=53
+2017-06-01T15:13:25.262Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.263Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.264Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=53
+2017-06-01T15:13:25.265Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=54
+2017-06-01T15:13:25.266Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F8608), id=54
+2017-06-01T15:13:25.267Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=54
+2017-06-01T15:13:25.267Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.268Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.268Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=54
+2017-06-01T15:13:25.269Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=55
+2017-06-01T15:13:25.269Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F79A8), id=55
+2017-06-01T15:13:25.269Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=55
+2017-06-01T15:13:25.270Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.270Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.271Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=55
+2017-06-01T15:13:25.271Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=56
+2017-06-01T15:13:25.271Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F79A8), id=56
+2017-06-01T15:13:25.272Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=56
+2017-06-01T15:13:25.272Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.273Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.273Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=56
+2017-06-01T15:13:25.273Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=57
+2017-06-01T15:13:25.274Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F79A8), id=57
+2017-06-01T15:13:25.274Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=57
+2017-06-01T15:13:25.275Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.275Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.275Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=57
+2017-06-01T15:13:25.277Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=58
+2017-06-01T15:13:25.277Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F79A8), id=58
+2017-06-01T15:13:25.277Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=58
+2017-06-01T15:13:25.278Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.278Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.279Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=58
+2017-06-01T15:13:25.280Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=59
+2017-06-01T15:13:25.281Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F79A8), id=59
+2017-06-01T15:13:25.281Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=59
+2017-06-01T15:13:25.281Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.282Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.282Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=59
+2017-06-01T15:13:25.283Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=60
+2017-06-01T15:13:25.283Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0A7F79A8), id=60
+2017-06-01T15:13:25.284Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=60
+2017-06-01T15:13:25.284Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.285Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.285Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=60
+2017-06-01T15:13:25.286Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=61
+2017-06-01T15:13:25.286Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=62
+2017-06-01T15:13:25.287Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF58F8), id=61
+2017-06-01T15:13:25.287Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=61
+2017-06-01T15:13:25.287Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.288Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.288Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=61
+2017-06-01T15:13:25.289Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF63A8), id=62
+2017-06-01T15:13:25.289Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=62
+2017-06-01T15:13:25.290Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.290Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.291Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=62
+2017-06-01T15:13:25.292Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=63
+2017-06-01T15:13:25.292Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6558), id=63
+2017-06-01T15:13:25.293Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=63
+2017-06-01T15:13:25.293Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.294Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.294Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=63
+2017-06-01T15:13:25.294Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=64
+2017-06-01T15:13:25.295Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF5AA8), id=64
+2017-06-01T15:13:25.295Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=64
+2017-06-01T15:13:25.295Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:25.296Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:25.296Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=64
+2017-06-01T15:13:25.297Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=65
+2017-06-01T15:13:25.297Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6318), id=65
+2017-06-01T15:13:25.298Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin
+2017-06-01T15:13:32.007Z - normal: Simulator: , id=65
+2017-06-01T15:13:32.007Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.008Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.008Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=65
+2017-06-01T15:13:32.009Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=66
+2017-06-01T15:13:32.009Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF5AA8), id=66
+2017-06-01T15:13:32.009Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=66
+2017-06-01T15:13:32.010Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.010Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.011Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=66
+2017-06-01T15:13:32.011Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=67
+2017-06-01T15:13:32.011Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=68
+2017-06-01T15:13:32.012Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=69
+2017-06-01T15:13:32.012Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 4, player id=70
+2017-06-01T15:13:32.013Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF5BC8), id=69
+2017-06-01T15:13:32.013Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=69
+2017-06-01T15:13:32.014Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.015Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.016Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=69
+2017-06-01T15:13:32.016Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6048), id=67
+2017-06-01T15:13:32.017Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=67
+2017-06-01T15:13:32.017Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.018Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.018Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=67
+2017-06-01T15:13:32.019Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6288), id=68
+2017-06-01T15:13:32.019Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=68
+2017-06-01T15:13:32.020Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.020Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.020Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=68
+2017-06-01T15:13:32.021Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=71
+2017-06-01T15:13:32.021Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF65E8), id=70
+2017-06-01T15:13:32.022Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=70
+2017-06-01T15:13:32.022Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.023Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.023Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=70
+2017-06-01T15:13:32.023Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF5BC8), id=71
+2017-06-01T15:13:32.024Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=71
+2017-06-01T15:13:32.024Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.025Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.025Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=71
+2017-06-01T15:13:32.026Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=72
+2017-06-01T15:13:32.026Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF5BC8), id=72
+2017-06-01T15:13:32.027Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=72
+2017-06-01T15:13:32.027Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.028Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.028Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=72
+2017-06-01T15:13:32.028Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=73
+2017-06-01T15:13:32.029Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF5BC8), id=73
+2017-06-01T15:13:32.029Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=73
+2017-06-01T15:13:32.030Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.030Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.031Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=73
+2017-06-01T15:13:32.031Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=74
+2017-06-01T15:13:32.032Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF60D8), id=74
+2017-06-01T15:13:32.033Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=74
+2017-06-01T15:13:32.033Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.034Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.034Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=74
+2017-06-01T15:13:32.035Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=75
+2017-06-01T15:13:32.035Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6288), id=75
+2017-06-01T15:13:32.036Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=75
+2017-06-01T15:13:32.037Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.037Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.037Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=75
+2017-06-01T15:13:32.038Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=76
+2017-06-01T15:13:32.038Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6708), id=76
+2017-06-01T15:13:32.039Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=76
+2017-06-01T15:13:32.039Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.039Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.040Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=76
+2017-06-01T15:13:32.040Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=77
+2017-06-01T15:13:32.041Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6048), id=77
+2017-06-01T15:13:32.041Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=77
+2017-06-01T15:13:32.041Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:32.042Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:32.045Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=77
+2017-06-01T15:13:32.045Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=78
+2017-06-01T15:13:32.046Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=79
+2017-06-01T15:13:32.047Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF64C8), id=78
+2017-06-01T15:13:32.048Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=78
+2017-06-01T15:13:32.049Z - normal: Simulator: V/AudioPlayer (
+2017-06-01T15:13:35.339Z - normal: Simulator: 127): Before alSourceStop
+2017-06-01T15:13:35.340Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:35.341Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=78
+2017-06-01T15:13:35.341Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6D38), id=79
+2017-06-01T15:13:35.342Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=79
+2017-06-01T15:13:35.343Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:35.344Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:35.344Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=79
+2017-06-01T15:13:35.345Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=80
+2017-06-01T15:13:35.346Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF7098), id=80
+2017-06-01T15:13:35.348Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=80
+2017-06-01T15:13:35.349Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:35.350Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:35.351Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=80
+2017-06-01T15:13:35.351Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=81
+2017-06-01T15:13:35.351Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF7368), id=81
+2017-06-01T15:13:35.352Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=81
+2017-06-01T15:13:35.353Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:35.354Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:35.356Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=81
+2017-06-01T15:13:35.358Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=82
+2017-06-01T15:13:35.358Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF7248), id=82
+2017-06-01T15:13:35.359Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=82
+2017-06-01T15:13:35.360Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:35.360Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:35.361Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=82
+2017-06-01T15:13:35.362Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=83
+2017-06-01T15:13:35.363Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0ABF6C18), id=83
+2017-06-01T15:13:35.364Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=83
+2017-06-01T15:13:35.364Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-06-01T15:13:35.366Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-06-01T15:13:35.366Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=83
+2017-06-01T15:13:35.369Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=84
+2017-06-01T15:13:35.371Z - normal: Simulator: basic_object_finalize 08B31740 ...
+2017-06-01T15:13:35.372Z - normal: Simulator: jsbindings: finalizing JS object 08B31760 (WebSocket)
+2017-06-01T15:13:35.373Z - normal: Simulator: jsbindings: finalizing JS object 08B31780 (SocketIO)
+2017-06-01T15:45:08.648Z - info: shutdown preview server
